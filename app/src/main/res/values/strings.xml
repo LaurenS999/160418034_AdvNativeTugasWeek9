@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">160418034_AdvNativeWeek8</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="highpriority">High Priority</string>
+    <string name="mediumpriority">Medium Priority</string>
+    <string name="lowpriority">Low Priority</string>
+</resources>
